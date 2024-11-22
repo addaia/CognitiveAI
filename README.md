@@ -1,6 +1,3 @@
-# Cognitive AI
-
-
 # Repository Overview
 
 ## notebook.ipynb
