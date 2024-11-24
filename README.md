@@ -8,6 +8,7 @@ This includes the code used to answer questions from `Q2a` to `Q2c`. Select task
 
 This includes the code used to answer questions from `Q2d`. Select task number at the beginning and run!
 Model is inspired by work from:
+
 -Yansen Wang, Xinyang Jiang, Kan Ren, Caihua Shan, Xufang Luo, Dongqi Han, Kaitao Song, Yifei
 Shen, and Dongsheng Li. CircuitNet: A generic neural network to realize universal circuit motif mod-
 eling. In Andreas Krause, Emma Brunskill, Kyunghyun Cho, Barbara Engelhardt, Sivan Sabato, and
